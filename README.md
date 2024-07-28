@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devMadlani
-- 👀 I’m interested in Full Stack developer
-- 📫 How to reach me ...
-
+- 👀 I’m interested in Full Stack Development
+- 📫 How to reach me (instagram : @dev_madlani)
 
 <!---
 devMadlani/devMadlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
